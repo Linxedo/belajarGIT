@@ -9,6 +9,7 @@ Daftar tugas / branch
 6. Tugas-php
 7. Tugas-finalProject
 
+Daftar Perintah Git
 1. `git config` - Mengatur konfigurasi Git (nama, email, dll.).
 2. `git init` - Menginisialisasi repository Git baru.
 3. `git clone <URL>` - Mengkloning repository dari remote ke lokal.
